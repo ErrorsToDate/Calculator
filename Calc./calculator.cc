@@ -1,10 +1,5 @@
 #include<iostream>
-#include<string>
-using namespace std;
-float mult(float num1,float num2);
-float add(float num1,float num2);
-float sub(float num1,float num2);
-float divide(float num2,float num2);
+
 int main()
 {
     int choice;
