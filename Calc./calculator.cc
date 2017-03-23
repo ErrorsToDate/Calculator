@@ -8,7 +8,7 @@ float divide(float num2,float num2);
 int main()
 {
     int choice;
-    float num1,num2;
+     float num1,num2;
 
 
     cout<<" WONDER'S CALCULATOR "<<endl;
