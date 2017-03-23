@@ -44,7 +44,7 @@ cout<<"
                                     break;
                                            case 3:
                                                  cout<<"Please enter 
-the
+ the
 two numbers you want to subtract, The number you want to subtract from
 first!: ";
                                                  cin>>num1>> num2;
