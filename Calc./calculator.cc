@@ -14,7 +14,7 @@ int main()
     cout<<" WONDER CALCULATOR "<<endl;
 
 
-    cout<<"	What would you like:"<<endl;
+    cout<<"	What would you like to use:"<<endl;
     cout<<"	1.Division"<<endl;
     cout<<"	2.Adding"<<endl;
     cout<<"	3.Subtraction"<<endl;
