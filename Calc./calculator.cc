@@ -11,7 +11,7 @@ int main()
      float num1,num2;
 
 
-    cout<<" WONDER CALCULATOR "<<endl;
+       cout<<" WONDER CALCULATOR "<<endl;
 
 
     cout<<"	What would you like to use:"<<endl;
