@@ -25,7 +25,7 @@ YOUR CHIOCE IS: ";
                       cout<<"Please enter two numbers you want to
 divide, divisor first!: ";
                         cin>>num1>> num2;
-                         cin.ignore();
+                        cin.ignore();
 
 cout<<"
 "<<num1<<"/"<<num2<<"="<<divide(num1,num2)<<endl;
