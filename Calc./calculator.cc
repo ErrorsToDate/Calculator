@@ -35,7 +35,7 @@ cout<<"
 you
 want to add: ";
                                    cin>>num1>> num2;
-                                   cin.ignore();
+                                  cin.ignore();
 
 cout<<"
 "<<num1<<"+"<<num2<<"="<<add(num1,num2)<<endl;
