@@ -22,7 +22,7 @@ YOUR CHIOCE IS: ";
     cin>>choice;
     switch(choice){
                    case 1:
-                      cout<<"Please enter two numbers you want to
+                     cout<<"Please enter two numbers you want to
 divide, divisor first!: ";
                         cin>>num1>> num2;
                         cin.ignore();
