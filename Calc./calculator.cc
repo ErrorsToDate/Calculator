@@ -31,7 +31,7 @@ cout<<"
 "<<num1<<"/"<<num2<<"="<<divide(num1,num2)<<endl;
                         break;
                               case 2:
-                                  cout<<"Please enter two numbers 
+                                 cout<<"Please enter two numbers 
 you
 want to add: ";
                                   cin>>num1>> num2;
