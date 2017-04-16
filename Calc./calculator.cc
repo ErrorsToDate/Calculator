@@ -46,7 +46,7 @@ cout<<"
 two numbers you want to subtract, The number you want to subtract from
 first!: ";
                                                  cin>>num1>> num2;
-                                                 cin.ignore();
+                                                cin.ignore();
 
 cout<<"
 "<<num1<<"-"<<num2<<"="<<sub(num1,num2)<<endl;
