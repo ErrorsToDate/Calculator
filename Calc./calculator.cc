@@ -34,7 +34,7 @@ cout<<"
                                   cout<<"Please enter two numbers 
 you
 want to add: ";
-                                   cin>>num1>> num2;
+                                  cin>>num1>> num2;
                                   cin.ignore();
 
 cout<<"
