@@ -74,7 +74,7 @@ cin.ignore();
 break;
                                                                           
         }
-                                cin.ignore();
+                               cin.ignore();
                                 return 0;
 }
 float mult(float num1,float num2){
