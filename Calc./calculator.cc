@@ -18,7 +18,7 @@ int main()
     cout<<"	3.Subtraction"<<endl;
     cout<<"	4.multiplication"<<endl;
     cout<<"
-YOUR CHIOCE IS: ";
+   YOUR CHIOCE IS: ";
     cin>>choice;
     switch(choice){
                    case 1:
