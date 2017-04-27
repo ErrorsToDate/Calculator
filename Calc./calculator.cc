@@ -16,7 +16,7 @@ int main()
     cout<<"	1.Division"<<endl;
     cout<<"	2.Adding"<<endl;
     cout<<"	3.Subtraction"<<endl;
-    cout<<"	4.multiplication"<<endl;
+    cout<<"	4.Multiplication"<<endl;
     cout<<"
    YOUR CHIOCE IS: ";
     cin>>choice;
