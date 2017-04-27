@@ -9,7 +9,7 @@ int main()
     cout<<" వండర్ కాలిక్యులేటర్ "<<endl;
 
 
-    cout<<"あなたは何を使いたいですか？"<<endl;
+    cout<<"あなたは何を使いたいで？"<<endl;
     cout<<"	1.Division"<<endl;
     cout<<"	2.Adding"<<endl;
     cout<<"	3.Subtraction"<<endl;
